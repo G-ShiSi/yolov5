@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6ed39b-d309-4fd3-ba9b-bac2f50d52de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="21d1003a-8a30-49a6-b006-bd18f9c0dce0" />
+  <component name="ProjectId" id="1xbsU2laUJgVSeqgiTIin2I9hat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\yolov5-master-q\yolov5-master\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\yolov5-master-q\yolov5-master\data\video" />
+      <recent name="E:\PycharmProjects\yolov5-master-q\yolov5-master\data\images" />
+      <recent name="E:\PycharmProjects\yolov5-master-q\ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master-q" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yolov5-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov5-master/detect.py" />
+      <option name="PARAMETERS" value="--class 0 1 2 3 5" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master-q" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master-q" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yolov5-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov5-master/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for MainForm.TestCamera" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master-q" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MainForm.TestCamera&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in MainForm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master-q" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ui/MainForm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.detect" />
+      <item itemvalue="Python.text (1)" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python tests.pytest in MainForm.py" />
+      <item itemvalue="Python tests.pytest for MainForm.TestCamera" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.detect" />
+        <item itemvalue="Python.text (1)" />
+        <item itemvalue="Python tests.pytest in MainForm.py" />
+        <item itemvalue="Python tests.pytest for MainForm.TestCamera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f6ed39b-d309-4fd3-ba9b-bac2f50d52de" name="Default Changelist" comment="" />
+      <created>1630635134464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630635134464</updated>
+      <workItem from="1630635139637" duration="3872000" />
+      <workItem from="1631076835607" duration="3286000" />
+      <workItem from="1631089368296" duration="3065000" />
+      <workItem from="1631196265952" duration="2084000" />
+      <workItem from="1631238851588" duration="15805000" />
+      <workItem from="1631426570148" duration="4595000" />
+      <workItem from="1631514374848" duration="18000" />
+      <workItem from="1631515419564" duration="1020000" />
+      <workItem from="1631538291844" duration="1084000" />
+      <workItem from="1631611596053" duration="1378000" />
+      <workItem from="1642397264928" duration="2573000" />
+      <workItem from="1642909660103" duration="295000" />
+      <workItem from="1642988308056" duration="3270000" />
+      <workItem from="1643165195374" duration="7488000" />
+      <workItem from="1643248131541" duration="4436000" />
+      <workItem from="1643377681259" duration="1192000" />
+      <workItem from="1643420170179" duration="4281000" />
+      <workItem from="1643509254576" duration="1876000" />
+      <workItem from="1643590887954" duration="1353000" />
+      <workItem from="1643770849225" duration="1919000" />
+      <workItem from="1643784338238" duration="1194000" />
+      <workItem from="1643792757621" duration="3333000" />
+      <workItem from="1643939705585" duration="4656000" />
+      <workItem from="1644117918831" duration="11848000" />
+      <workItem from="1644201813686" duration="8876000" />
+      <workItem from="1644228450126" duration="632000" />
+      <workItem from="1644287020373" duration="9266000" />
+      <workItem from="1644373370880" duration="1806000" />
+      <workItem from="1644466854850" duration="6338000" />
+      <workItem from="1644552345803" duration="7093000" />
+      <workItem from="1646207768447" duration="610000" />
+      <workItem from="1646915664001" duration="987000" />
+      <workItem from="1648022164293" duration="500000" />
+      <workItem from="1648095410105" duration="609000" />
+      <workItem from="1648258999053" duration="665000" />
+      <workItem from="1657615496811" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657615561365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615561365" />
+    <state x="477" y="25" key="#train" timestamp="1657615516967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#train/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615516967" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1657615738423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615738423" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1657615738422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615738422" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1657615738422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615738422" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1657615738423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615738423" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1657615543616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1657615543616" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yolov5_master_q$pytest_for_MainForm_TestCamera.coverage" NAME="pytest for MainForm.TestCamera Coverage Results" MODIFIED="1631255026888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$text2.coverage" NAME="text2 Coverage Results" MODIFIED="1631254883376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$train.coverage" NAME="train Coverage Results" MODIFIED="1657615691869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5-master" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$pytest_in_MainForm_py.coverage" NAME="pytest in MainForm.py Coverage Results" MODIFIED="1631255132496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$text__1_.coverage" NAME="text (1) Coverage Results" MODIFIED="1646916500784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$text.coverage" NAME="text Coverage Results" MODIFIED="1631249732663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5-master" />
+    <SUITE FILE_PATH="coverage/yolov5_master_q$detect.coverage" NAME="detect Coverage Results" MODIFIED="1648022256235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5-master" />
+  </component>
+</project>
